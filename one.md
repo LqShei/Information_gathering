@@ -1,5 +1,7 @@
-1.首先会给出一个公司名
-2.根据公司查域名（企查查）
+1.首先会给出一个公司名（使用爱企查： aiqicha.com）
+2.查到公司的域名之后，进入网络空间搜索
+<img width="1009" height="625" alt="image" src="https://github.com/user-attachments/assets/0a94a894-74a7-4e89-af83-73eb1f10143d" />
+
 3.使用网络资产搜索引擎搜索资产(fofa: domin=" *** "),可选备案企业（icp="京ICP证030173号"）,通过网站图标的hash值进行查询	(icon_hash="-247388890"),搜ip的话可以用fofa,搜子域名的话可以用hunter
 4.站长工具(https://www.aizhan.com/,https://tool.chinaz.com/)
 5.fofa查c段 ： ip="xx.xx.xx.xx/24"
