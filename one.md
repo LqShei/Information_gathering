@@ -1,6 +1,28 @@
-1.首先会给出一个公司名（使用爱企查： aiqicha.com）
-2.查到公司的域名之后，进入网络空间搜索
-<img width="1009" height="625" alt="image" src="https://github.com/user-attachments/assets/0a94a894-74a7-4e89-af83-73eb1f10143d" />
+1.首先会给出一个公司名（使用爱企查： aiqicha.com），此以`乐视`为例（www.le.com）
+<img width="2460" height="1603" alt="image" src="https://github.com/user-attachments/assets/3985d55b-5439-4e33-aa44-37e82857b189" />
+
+
+2. 查到公司的域名之后，进入网络空间搜索
+
+| 公司             | 产品                          | 网址                                      |
+|------------------|-------------------------------|-------------------------------------------|
+| 白帽汇-华顺信安   | FOFA（大学生免费会员）         | https://fofa.info/                        |
+| 知道创宇          | 钟馗之眼                      | https://www.zoomeye.org/                  |
+| 奇安信            | 鹰图                          | https://hunter.qianxin.com/               |
+| 360              | 夸克                          | https://quake.360.net/                    |
+| 安恒              | SUMAP                         | https://sumap.dbappsecurity.com.cn/       |
+| 盛邦安全          | daydaymap                     | https://www.daydaymap.com/home            |
+|                  | 知风-工控、物联网搜索           | https://zhifeng.io/web/new/               |
+|                  | shodan                        | https://www.shodan.io/                    |
+|                  | censys                        | https://censys.io/                        |
+|                  | onyphe                        | https://www.onyphe.io/                    |
+
+使用hunter https://hunter.qianxin.com/ 来查一下
+<img width="2519" height="1551" alt="image" src="https://github.com/user-attachments/assets/e48af47f-d1b7-4e05-b541-8e216ae7c406" />
+<img width="2519" height="1488" alt="image" src="https://github.com/user-attachments/assets/f961f038-4cd1-4aa0-aa80-24eb5dda6c21" />
+
+使用企业名字来查域名：`icp.name=="乐视网信息技术（北京）股份有限公司"`
+
 
 3.使用网络资产搜索引擎搜索资产(fofa: domin=" *** "),可选备案企业（icp="京ICP证030173号"）,通过网站图标的hash值进行查询	(icon_hash="-247388890"),搜ip的话可以用fofa,搜子域名的话可以用hunter
 4.站长工具(https://www.aizhan.com/,https://tool.chinaz.com/)
