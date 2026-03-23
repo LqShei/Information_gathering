@@ -22,6 +22,47 @@
 <img width="2519" height="1488" alt="image" src="https://github.com/user-attachments/assets/f961f038-4cd1-4aa0-aa80-24eb5dda6c21" />
 
 使用企业名字来查域名：`icp.name=="乐视网信息技术（北京）股份有限公司"`
+<img width="2461" height="1492" alt="image" src="https://github.com/user-attachments/assets/f6bebb92-57f3-4973-adb1-1e563598af35" />
+
+通过企业的logo来搜索资产：web.icon=="f9b2ac37c01f8a1c86b3d791647f3303"
+<img width="2452" height="1492" alt="image" src="https://github.com/user-attachments/assets/1efb48f9-a04f-4bd0-9fde-dc319f045647" />
+
+如何查看该公司的子公司：在爱企查里面点击股权穿透图即可：
+<img width="2519" height="1543" alt="image" src="https://github.com/user-attachments/assets/9889ed2f-f248-4364-982c-0ab6d50d241a" />
+
+如何搜索小程序资产：直接去微信里面搜索即可
+<img width="1699" height="1268" alt="image" src="https://github.com/user-attachments/assets/b164bbb9-022a-47b8-931c-4d5b05550d02" />
+
+什么情况会使用fofa:搜索ip的时候
+如何使用fofa搜索c段：ip="xx.xx.xx.xx/24"
+什么情况使用hunter:搜索子域名的时候
+
+工具推荐：
+1.https://github.com/shmilylty/oneforall
+
+2.https://github.com/adysec/ARL
+
+3.https://github.com/euphrat1ca/LayerDomainFinder
+
+4.https://github.com/TideSec/TideFinger
+
+敏感信息收集
+1.github搜索
+比如： edu.cn 密码
+<img width="2519" height="1553" alt="image" src="https://github.com/user-attachments/assets/d21d992d-72ad-4d96-995a-34f4f043438a" />
+如果绕过github搜索的代码页面限制：https://www.jianshu.com/p/ec98d49d4cd8
+
+2.网盘搜索
+https://www.lingfengyun.com/
+
+3.语雀搜索
+https://www.yuque.com/dashboard
+
+4.短视频搜索
+
+
+
+
 
 
 3.使用网络资产搜索引擎搜索资产(fofa: domin=" *** "),可选备案企业（icp="京ICP证030173号"）,通过网站图标的hash值进行查询	(icon_hash="-247388890"),搜ip的话可以用fofa,搜子域名的话可以用hunter
